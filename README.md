@@ -22,7 +22,7 @@ index.html → App layout
 style.css → UI design
 script.js → Add, edit, delete, and LocalStorage logic
 
-🧩 Step 7: How to Use the App (User Steps)
+🧩 Step 4: How to Use the App (User Steps)
 ## 🕹 How to Use
 1. Type a task in the input box at the top.
 2. Click on the **Add** button.
@@ -33,7 +33,7 @@ script.js → Add, edit, delete, and LocalStorage logic
 
 )
 
-🧩 Step 9: Author / Contact
+🧩 Step 5: Author / Contact
 ## 👨‍💻 Author
 
 Name: Dhiraj Kumar  
